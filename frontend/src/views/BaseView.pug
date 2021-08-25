@@ -1,0 +1,7 @@
+div
+  div(v-show="isActive(page.tabName)" v-for="(page, index) in pages" :key="index")
+    <router-link :to="t.route" v-for="t in tabs" :key="t.root" class="mr-1">
+      <el-button size="mini" round :type="page.tabName == t.root ? 'primary' : ''">{{t.name}}</el-button>
+    </router-link>
+    keep-alive
+      component(:is="page.component" v-bind="page.props")

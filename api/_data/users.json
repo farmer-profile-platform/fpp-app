@@ -1,0 +1,65 @@
+[{
+  "_id": {"$oid":"5f245048fd33553facc42683"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2020-07-31T17:09:28.701Z\"}",
+  "email": "james.quaicoe@cnmghana.com",
+  "name": "JAMES QUAICOE",
+  "password": "$2a$10$IgLeBt2pTePTFGn2Cd5XCOw2vWTr7qPxfxli6Lw6mWdNHWlygaJ2K",
+  "profile_pic": "photo_5f245048fd33553facc42683.jpg",
+  "role": "editor",
+  "suspended": "f"
+},{
+  "_id": {"$oid":"5f251011b93e9e6b41313ca1"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2020-08-01T06:47:45.110Z\"}",
+  "email": "bernard.cudjoe@cnmghana.com",
+  "name": "BERNARD CUDJOE",
+  "password": "$2a$10$.KjOlOT1oemfeReXPOJFQu5jjyTG4LhA91rfXiXvCsEbSV/EOfYZ2",
+  "profile_pic": "photo_5f251011b93e9e6b41313ca1.jpg",
+  "role": "admin",
+  "suspended": "f"
+},{
+  "_id": {"$oid":"5f8d95ce30e1020004596aec"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2020-10-19T13:34:06.217Z\"}",
+  "email": "charlesobeng@gmail.com",
+  "name": "Charles Obeng",
+  "password": "$2y$10$EUG0cuK1Q1UtF/5G43kZK.rWFyC93R.YSFRbdzLSBh9Pm8PSi..32",
+  "profile_pic": "photo_5f8d95ce30e1020004596aec.jpg",
+  "role": "admin",
+  "suspended": "f",
+  "lastActive": "{\"$date\":\"2020-10-19T13:34:06.217Z\"}"
+},{
+  "_id": {"$oid":"5fc8c5ba87c6dd23564d57d7"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2020-12-03T11:02:18.332Z\"}",
+  "email": "daniel.amoah@cnmghana.com",
+  "name": "DANIEL AMOAH",
+  "password": "$2a$10$n6xwI.43IwGwe4Tv9Vm7VOxg51Thaz.phO4sW7s1AtZ3yykEHWwA.",
+  "profile_pic": "photo_5fc8c5ba87c6dd23564d57d7.jpeg",
+  "role": "editor",
+  "suspended": "t",
+  "lastActive": "{\"$date\":\"2020-12-03T11:02:18.332Z\"}"
+},{
+  "_id": {"$oid":"5fcc932487c6dd23564d5806"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2020-12-06T08:15:32.509Z\"}",
+  "email": "coach@cnmghana.com",
+  "name": "SAMUEL YEBOAH",
+  "password": "$2a$10$XN2Bz2CqlTAYtp9XrxR8eOWUx1oZbKi5C1fyRLY7TIyNyr.vTOU0K",
+  "profile_pic": "photo_5fcc932487c6dd23564d5806.jpg",
+  "role": "user",
+  "suspended": "t",
+  "lastActive": "{\"$date\":\"2020-12-06T08:15:32.509Z\"}"
+},{
+  "_id": {"$oid":"6018e7735630614f1f35b670"},
+  "__v": "0",
+  "createdAt": "{\"$date\":\"2021-02-02T05:47:31.469Z\"}",
+  "email": "charleseditor@gmail.com",
+  "name": "Charles Editor",
+  "password": "$2a$10$Df/qobdTCSeydy2.6U5p2.nAIl9Ud82rmrVndCaAPkz0Xe9jBB0KC",
+  "profile_pic": "no-photo.jpg",
+  "role": "editor",
+  "suspended": "f",
+  "lastActive": "{\"$date\":\"2021-02-02T05:47:31.469Z\"}"
+}]

@@ -1,0 +1,87 @@
+/*
+Write your variables here. All available variables can be
+found in element-ui/packages/theme-chalk/src/common/var.scss.
+For example, to overwrite the theme color:
+*/
+
+$--color-primary: #2fa512;
+$--color-success: #39c477;
+$--color-warning: #f7ba2a;
+$--color-danger: #ff4949;
+$--color-info: rgb(126, 126, 123);
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import '~element-ui/packages/theme-chalk/src/index';
+
+// .el-table {
+//   background-color: transparent;
+//   border-collapse: separate !important;
+//   border-spacing: 0 1em !important;
+
+//   .el-table__header-wrapper {
+//     display: none;
+//   }
+// }
+
+.el-button--text {
+  color: rgb(184, 181, 181);
+}
+
+.el-main {
+  background: #e6e6e6;
+}
+
+.el-header {
+  background: #e6e6e6;
+  font-size: 12px;
+  height: 45px !important;
+  border-bottom: 1px solid rgb(199, 198, 198);
+  line-height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.el-menu {
+  border-right: none;
+}
+
+.el-menu-item {
+  height: 50px;
+  line-height: 50px;
+  padding-left: 0 !important;
+  color: #2fa512;
+  font-weight: bold;
+
+  a {
+    color: #2fa512;
+    font-weight: bold;
+  }
+}
+
+.el-menu-item.is-active {
+  background-color: #d4f5da;
+}
+
+.el-button--primary.is-plain {
+  color: #2fa512;
+  background: white;
+  border-color: whitesmoke;
+}
+
+.el-card__body {
+  padding: 10px;
+}
+
+.el-card__header {
+  padding: 8px 25px 5px 8px;
+  border-bottom: 1px solid #EBEEF5;
+  box-sizing: border-box;
+}
+
+.el-tabs--border-card {
+  background: #FFFFFF;
+  border: 1px solid #DCDFE6;
+  box-shadow: none !important;
+}

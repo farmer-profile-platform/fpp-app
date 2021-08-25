@@ -1,0 +1,127 @@
+[
+  {
+  "_id": "3d7a514b4d2c12c7445ee545",
+  "name": "Access Bank Ghana Plc",
+  "type": "banks"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee046",
+    "name": "Absa Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee047",
+    "name": "Absa Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee048",
+    "name": "Bank of Africa Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee049",
+    "name": "Agricultural Development Bank of Ghana",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee050",
+    "name": "Consolidated Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee051",
+    "name": "CalBank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee052",
+    "name": "Ecobank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee053",
+    "name": "FBN Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee054",
+    "name": "First Atlantic Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "0d7a914b5d2c15c7445ee011",
+    "name": "Fidelity Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee055",
+    "name": "First National Bank Ghana",
+    "type": "bank"
+  },
+  {
+    "_id": "0d8a214b5d2c12c7445ee056",
+    "name": "GCB Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "4d7a914b5d2c12c7445ee057",
+    "name": "GHL Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "9d7a514b5d2c12c7445ee058",
+    "name": "Guaranty Trust Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee060",
+    "name": "National Investment Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "4d7a514b5d2c12c7445ee063",
+    "name": "OmniBSIC Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "3d7a514b5d2c12c7445ee062",
+    "name": "Prudential Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "2d7a514b5d2c12c7445ee064",
+    "name": "Republic Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "1d7a514b5d2c12c7445ee065",
+    "name": "Société Générale Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7445ee066",
+    "name": "Stanbic Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a510b5d2c12c7445ee099",
+    "name": "Standard Chartered Bank Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b1d2c12c7445ee090",
+    "name": "Universal Merchant Bank Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a514b9d2c12c7445ee068",
+    "name": "United Bank for Africa Ghana Limited",
+    "type": "bank"
+  },
+  {
+    "_id": "5d7a516b5d2c12c7445ee070",
+    "name": "Zenith Bank Ghana Limited",
+    "type": "bank"
+  }
+]

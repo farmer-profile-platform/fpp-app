@@ -1,0 +1,1312 @@
+[
+  {
+    "_id": {
+      "$oid": "5f37924f756ade120baacce0"
+    },
+    "education": "BECE",
+    "photo": "img_pp_2.jpg",
+    "fingerprint": "img_Amansuaa_Akua_tp.jpg",
+    "idCard": "img_Amansuaa_Akua.jpg",
+    "spouse": [{
+      "firstName": "Frank",
+      "lastName": "Adu",
+      "dob": "",
+      "phone": "",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Francisca Kyerwa",
+      "dob": "2001-04-03T23:00:00.000Z"
+    }, {
+      "name": "Jennifer Pokuah",
+      "dob": "2005-10-04T23:00:00.000Z"
+    }, {
+      "name": "Emmanuel Adu",
+      "dob": "2013-03-01T00:00:00.000Z"
+    }, {
+      "name": "Culbert Damoa",
+      "dob": "2020-02-06T00:00:00.000Z"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "2",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "9",
+        "minor_season_harvest": "9",
+        "yearly_harvest": "18",
+        "major_season_income": {
+          "$numberInt": "405"
+        },
+        "minor_season_income": {
+          "$numberInt": "405"
+        },
+        "yearly_income": {
+          "$numberInt": "810"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "8",
+        "major_season_income": {
+          "$numberInt": "360"
+        },
+        "yearly_income": null
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "788.4"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "8",
+        "total": {
+          "$numberInt": "336"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "URAE",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "320"
+        },
+        "quantity": "8"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "80"
+        },
+        "quantity": "2"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberInt": "30"
+        },
+        "quantity": "2"
+      }, {
+        "type": "Farm INput Transportaion & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "22.4"
+        },
+        "quantity": "16"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "0551881105",
+      "name": "Akua Amansuaa",
+      "network": "MTN"
+    }],
+    "title": "Miss.",
+    "firstName": "Akua",
+    "lastName": "Amansuaa",
+    "aka": "Akua Baayah",
+    "dob": {
+      "$date": {
+        "$numberLong": "456102000000"
+      }
+    },
+    "phone": "0551881105",
+    "email": "",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-00497",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715420637-3",
+    "num_children": {
+      "$numberInt": "5"
+    },
+    "years_farming": {
+      "$numberInt": "20"
+    },
+    "farmLandOwnershipType": "Family-owned",
+    "num_farmLands": {
+      "$numberInt": "7"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597477455926"
+      }
+    },
+    "name": "AkuaAmansuaa",
+    "slug": "akua-baayah",
+    "farmerId": "FPP-0BC3IV-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "farm_location": "7.775377,-1.632996",
+    "marital_status": "Windowed"
+  },
+  {
+    "_id": {
+      "$oid": "5f3798ad756ade120baacce8"
+    },
+    "education": "None",
+    "photo": "img_pp_1.jpg",
+    "fingerprint": "img_Achiaa_Cece_tp.jpg",
+    "idCard": "img_Achia_Cecilia.jpg",
+    "spouse": [{
+      "firstName": "Kwaku ",
+      "lastName": "Addae",
+      "dob": "",
+      "phone": "",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Adwoa Bafowaa",
+      "dob": ""
+    }, {
+      "name": "Ama Framaa"
+    }, {
+      "name": "Evans Kofi Ankomah"
+    }, {
+      "name": "Kwame Fae"
+    }, {
+      "name": "Bernice Achiaa"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "3",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "30",
+        "minor_season_harvest": "30",
+        "yearly_harvest": "61",
+        "major_season_income": {
+          "$numberInt": "1260"
+        },
+        "minor_season_income": {
+          "$numberInt": "1260"
+        },
+        "yearly_income": {
+          "$numberInt": "2520"
+        }
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1190.1"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "12",
+        "total": {
+          "$numberInt": "504"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "480"
+        },
+        "quantity": "12"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "120"
+        },
+        "quantity": "3"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "52.5"
+        },
+        "quantity": "3.5"
+      }, {
+        "name": "T&D",
+        "type": "Farm Input Transportation & Distribution",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "33.599999999999994"
+        },
+        "quantity": "24"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "0593449283",
+      "name": "Cecilia  Achiaa",
+      "network": "MTN"
+    }],
+    "title": "Mrs.",
+    "firstName": "Cecilia",
+    "lastName": "Achiaa",
+    "aka": "Achiaa",
+    "dob": {
+      "$date": {
+        "$numberLong": "-143514000000"
+      }
+    },
+    "phone": "0593449283",
+    "email": "mmm@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0145",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715436959-1",
+    "num_children": {
+      "$numberInt": "5"
+    },
+    "years_farming": {
+      "$numberInt": "50"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "6"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597479085213"
+      }
+    },
+    "name": "CeciliaAchiaa",
+    "slug": "achiaa",
+    "farmerId": "FPP-YACYZY-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "farm_location": "7.772758,-1.630179",
+    "marital_status": "Not provided"
+  },
+  {
+    "_id": {
+      "$oid": "5f37a44a756ade120baacced"
+    },
+    "education": "BECE",
+    "photo": "img_pp_8.jpg",
+    "fingerprint": "img_amoah_vasco_tp2.jpg",
+    "idCard": "img_id_amoahv.jpg",
+    "spouse": [{
+      "firstName": "Vivian",
+      "lastName": "Agyeiwaa",
+      "dob": "",
+      "phone": "0549154932",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Victor Amoah",
+      "dob": "2005-01-25T00:00:00.000Z"
+    }, {
+      "name": "Armstrong Twineh",
+      "dob": "2007-06-04T23:00:00.000Z"
+    }, {
+      "name": "Tracy Amoah",
+      "dob": "2017-08-09T23:00:00.000Z"
+    }, {
+      "name": "Success Semewaa",
+      "dob": "2019-08-12T23:00:00.000Z"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "5",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "33",
+        "minor_season_harvest": "45",
+        "yearly_harvest": "78",
+        "major_season_income": {
+          "$numberInt": "1320"
+        },
+        "minor_season_income": {
+          "$numberInt": "2700"
+        },
+        "yearly_income": {
+          "$numberInt": "4020"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "45",
+        "major_season_income": {
+          "$numberInt": "1500"
+        },
+        "yearly_income": null
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1355.7"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "12",
+        "total": {
+          "$numberInt": "504"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "640"
+        },
+        "quantity": "16"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "120"
+        },
+        "quantity": "3"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "52.5"
+        },
+        "quantity": "3.5"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "39.199999999999996"
+        },
+        "quantity": "28"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "02470407209",
+      "name": "Vasco Amoah",
+      "network": "MTN"
+    }],
+    "title": "Mr.",
+    "firstName": "Vasco",
+    "lastName": "Amoah",
+    "aka": "Wofa Aliyia",
+    "dob": {
+      "$date": {
+        "$numberLong": "135817200000"
+      }
+    },
+    "phone": "0243447515",
+    "email": "mm@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715524330-6",
+    "num_children": {
+      "$numberInt": "4"
+    },
+    "years_farming": {
+      "$numberInt": "27"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "9"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597482058551"
+      }
+    },
+    "name": "VascoAmoah",
+    "slug": "wofa-aliyia",
+    "farmerId": "FPP-Z5AYQ-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "farm_location": "7.775838,-1.628859",
+    "marital_status": "Not provided"
+  },
+  {
+    "_id": {
+      "$oid": "5f37a870756ade120baaccf2"
+    },
+    "education": "BECE",
+    "photo": "img_pp_5.jpg",
+    "fingerprint": "img_evansak.jpg",
+    "idCard": "img_ae.jpg",
+    "spouse": [{
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "phone": "",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "",
+      "dob": ""
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "4",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "66",
+        "minor_season_harvest": "54",
+        "yearly_harvest": "120",
+        "major_season_income": {
+          "$numberInt": "2200"
+        },
+        "minor_season_income": {
+          "$numberInt": "1800"
+        },
+        "yearly_income": {
+          "$numberInt": "4000"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "60",
+        "major_season_income": {
+          "$numberInt": "2000"
+        },
+        "yearly_income": null
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1584.3"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "16",
+        "total": {
+          "$numberInt": "672"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "640"
+        },
+        "quantity": "16"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "160"
+        },
+        "quantity": "4"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "67.5"
+        },
+        "quantity": "4.5"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "44.8"
+        },
+        "quantity": "32"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "0247717447",
+      "name": "Evans Ankomah",
+      "network": "MTN"
+    }],
+    "title": "Mr.",
+    "firstName": "Evans",
+    "lastName": "Ankomah",
+    "aka": "Alan Cash",
+    "dob": {
+      "$date": {
+        "$numberLong": "630288000000"
+      }
+    },
+    "phone": "0247717447",
+    "email": "yy@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0156",
+    "fbo_position": "Secretary",
+    "fboMember_name": "Secretary",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715442725-7",
+    "num_children": {
+      "$numberInt": "0"
+    },
+    "years_farming": {
+      "$numberInt": "10"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "8"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597483120145"
+      }
+    },
+    "name": "EvansAnkomah",
+    "slug": "alan-cash",
+    "farmerId": "FPP-WBXV-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "farm_location": "7.782098,-1.628304",
+    "marital_status": "Not provided"
+  },
+  {
+    "_id": {
+      "$oid": "5f37ac38756ade120baaccf5"
+    },
+    "education": "WASSCE",
+    "photo": "img_pp_9.jpg",
+    "fingerprint": "img_daniel2.jpg",
+    "idCard": "img_ad.jpg",
+    "spouse": [{
+      "firstName": "Elizabeth",
+      "lastName": "Boatemaa",
+      "dob": "",
+      "phone": "",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Faustina Adjei",
+      "dob": ""
+    }, {
+      "name": "Patricia Agyeiwaa"
+    }, {
+      "name": "Samson Adjei"
+    }, {
+      "name": "Babara Amponsah"
+    }, {
+      "name": "Mavis Owusu Adjei"
+    }, {
+      "name": "Gloria Frimpomaa Adjei"
+    }, {
+      "name": "Sandra Boahemaa Adjei"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "5",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "72",
+        "minor_season_harvest": "48",
+        "yearly_harvest": "120",
+        "major_season_income": {
+          "$numberInt": "1800"
+        },
+        "minor_season_income": {
+          "$numberInt": "1300"
+        },
+        "yearly_income": {
+          "$numberInt": "3100"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "60"
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberInt": "3367"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "42",
+        "total": {
+          "$numberInt": "1764"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "1120"
+        },
+        "quantity": "28"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "280"
+        },
+        "quantity": "7"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberInt": "105"
+        },
+        "quantity": "7"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberInt": "98"
+        },
+        "quantity": "70"
+      }]
+    }],
+    "bank": [{
+      "name": "Fiagya Rural Bank",
+      "branch": "Busunya",
+      "acc_name": "Daniel Agamah Adjei",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "0243682488",
+      "name": "Daniel Agamah Adjei",
+      "network": "MTN"
+    }],
+    "title": "Mr.",
+    "firstName": "Daniel",
+    "lastName": "Agamah Adjei",
+    "aka": "Wofa Agama",
+    "dob": {
+      "$date": {
+        "$numberLong": "315532800000"
+      }
+    },
+    "phone": "0243682488",
+    "email": "zz@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "",
+    "fbo_position": "President",
+    "fboMember_name": "President",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715347958-9",
+    "num_children": {
+      "$numberInt": "10"
+    },
+    "years_farming": {
+      "$numberInt": "45"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "15"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597484088557"
+      }
+    },
+    "name": "DanielAgamah Adjei",
+    "slug": "wofa-agama",
+    "farmerId": "FPP-8ZV7SJ-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "marital_status": "Not provided",
+    "farm_location": "7.749219,-1.67041"
+  },
+  {
+    "_id": {
+      "$oid": "5f37b011756ade120baaccf7"
+    },
+    "education": "BECE",
+    "photo": "img_pp_7.jpg",
+    "fingerprint": "img_yawcharles.jpg",
+    "idCard": "img_yc.jpg",
+    "spouse": [{
+      "firstName": "Akosua ",
+      "lastName": "Ampofowaa",
+      "dob": "",
+      "phone": "",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Yaw Adjei",
+      "dob": ""
+    }, {
+      "name": "Kojo Anokye"
+    }, {
+      "name": "Kwaku Boakye"
+    }, {
+      "name": "Ekua Ayiwaa"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "5",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "53",
+        "minor_season_harvest": "20",
+        "yearly_harvest": "73",
+        "major_season_income": {
+          "$numberInt": "7000"
+        },
+        "minor_season_income": {
+          "$numberInt": "4000"
+        },
+        "yearly_income": {
+          "$numberInt": "11000"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "60"
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1978.5"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "20",
+        "total": {
+          "$numberInt": "840"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "800"
+        },
+        "quantity": "20"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "200"
+        },
+        "quantity": "5"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "82.5"
+        },
+        "quantity": "5.5"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberInt": "56"
+        },
+        "quantity": "40"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "0248656679",
+      "name": "Charles Gyare",
+      "network": "MTN"
+    }],
+    "title": "Mr.",
+    "firstName": "Charles",
+    "lastName": "Gyare",
+    "aka": "Yaw Charles",
+    "dob": {
+      "$date": {
+        "$numberLong": "315532800000"
+      }
+    },
+    "phone": "0248656679",
+    "email": "yc@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0414",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Voters ID",
+    "id_number": "2094012408",
+    "num_children": {
+      "$numberInt": "5"
+    },
+    "years_farming": {
+      "$numberInt": "17"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "7"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597485073288"
+      }
+    },
+    "name": "CharlesGyare",
+    "slug": "yaw-charles",
+    "farmerId": "FPP-AFP56A-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "marital_status": "Not provided",
+    "farm_location": "7.751766,-1.682464"
+  },
+  {
+    "_id": {
+      "$oid": "5f37b3b5756ade120baaccf9"
+    },
+    "education": "BECE",
+    "photo": "img_pp_4.jpg",
+    "fingerprint": "img_adjoanyarko.jpg",
+    "idCard": "img_nya.jpg",
+    "spouse": [{
+      "firstName": "Kofi ",
+      "lastName": "Nyarkoh",
+      "dob": "",
+      "phone": "0544120767",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Kwame Damoah",
+      "dob": "1989-03-02T00:00:00.000Z"
+    }, {
+      "name": "Beatrice Abena",
+      "dob": "1993-02-02T00:00:00.000Z"
+    }, {
+      "name": "Kwesi Agyare",
+      "dob": "1998-08-01T23:00:00.000Z"
+    }, {
+      "name": "Oduro Dickson",
+      "dob": "2006-03-23T00:00:00.000Z"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "4",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "120",
+        "minor_season_harvest": "114",
+        "yearly_harvest": "234",
+        "major_season_income": {
+          "$numberInt": "4000"
+        },
+        "minor_season_income": {
+          "$numberInt": "3800"
+        },
+        "yearly_income": {
+          "$numberInt": "7800"
+        }
+      }, {
+        "year": "2020",
+        "major_season_harvest": "90",
+        "major_season_income": {
+          "$numberInt": "3000"
+        },
+        "yearly_income": null
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1190.1"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "12",
+        "total": {
+          "$numberInt": "504"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "480"
+        },
+        "quantity": "12"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "120"
+        },
+        "quantity": "3"
+      }, {
+        "type": "Parametric Crop Insurance ",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "52.5"
+        },
+        "quantity": "3.5"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "33.599999999999994"
+        },
+        "quantity": "24"
+      }]
+    }],
+    "bank": [{
+      "name": "",
+      "branch": "",
+      "acc_name": "",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "",
+      "name": "",
+      "network": ""
+    }],
+    "title": "Mrs.",
+    "firstName": "Adjoa",
+    "lastName": "Nyarkoh",
+    "aka": "Aunty Kartah",
+    "dob": {
+      "$date": {
+        "$numberLong": "28335600000"
+      }
+    },
+    "phone": "0549385050",
+    "email": "an@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0173",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715352996-5",
+    "num_children": {
+      "$numberInt": "4"
+    },
+    "years_farming": {
+      "$numberInt": "35"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberDouble": "5.5"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597486005329"
+      }
+    },
+    "name": "AdjoaNyarkoh",
+    "slug": "aunty-kartah",
+    "farmerId": "FPP-W82D7T-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "marital_status": "Married",
+    "farm_location": "7.762304,-1.678063"
+  },
+  {
+    "_id": {
+      "$oid": "5f37b66e756ade120baaccfb"
+    },
+    "education": "Basic",
+    "photo": "img_pp_3.jpg",
+    "fingerprint": "img_amasekyiwaa.jpg",
+    "idCard": "img_as.jpg",
+    "spouse": [{
+      "firstName": "Kwabena ",
+      "lastName": "Attah",
+      "dob": "",
+      "phone": "0241789640",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Issac Adu",
+      "dob": ""
+    }, {
+      "name": "Godfred Owusu"
+    }, {
+      "name": "Amos Baffour"
+    }, {
+      "name": "Emmanuel Adubiah"
+    }],
+    "harvestYield": [{
+      "crop_name": "Maize",
+      "acres": "4",
+      "years": [{
+        "year": "2019",
+        "major_season_harvest": "66",
+        "minor_season_harvest": "27",
+        "yearly_harvest": "93",
+        "major_season_income": {
+          "$numberInt": "2130"
+        },
+        "minor_season_income": {
+          "$numberInt": "1350"
+        },
+        "yearly_income": {
+          "$numberInt": "3480"
+        }
+      }]
+    }],
+    "inputSupport": [{
+      "year": "2020",
+      "grand_total": {
+        "$numberDouble": "1584.3"
+      },
+      "inputs": [{
+        "type": "Agro-Chemical (Approved)",
+        "name": "NPK (23-10-5)",
+        "unit_price": "42",
+        "quantity": "16",
+        "total": {
+          "$numberInt": "672"
+        }
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "UREA",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "640"
+        },
+        "quantity": "16"
+      }, {
+        "type": "Agro-Chemical (Approved)",
+        "name": "Aflasafe CH02",
+        "unit_price": "40",
+        "total": {
+          "$numberInt": "160"
+        },
+        "quantity": "4"
+      }, {
+        "type": "Parametric Crop Insurance",
+        "name": "Crop Insurance",
+        "unit_price": "15",
+        "total": {
+          "$numberDouble": "67.5"
+        },
+        "quantity": "4.5"
+      }, {
+        "type": "Farm Input Transportation & Distribution",
+        "name": "T&D",
+        "unit_price": "1.40",
+        "total": {
+          "$numberDouble": "44.8"
+        },
+        "quantity": "32"
+      }]
+    }],
+    "bank": [{
+      "name": "Nloranza Area Teachers' Cooperative Credit Union",
+      "branch": "",
+      "acc_name": "Ama Sekyiwaa",
+      "acc_number": "",
+      "swift_code": "None"
+    }],
+    "momo": [{
+      "phone": "",
+      "name": "",
+      "network": ""
+    }],
+    "title": "Mrs.",
+    "firstName": "Ama",
+    "lastName": "Sekyiwaa",
+    "aka": "Ama Sekyiwaa",
+    "dob": {
+      "$date": {
+        "$numberLong": "299631600000"
+      }
+    },
+    "phone": "0595407303",
+    "email": "as@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0061",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715544302-9",
+    "num_children": {
+      "$numberInt": "4"
+    },
+    "years_farming": {
+      "$numberInt": "20"
+    },
+    "farmLandOwnershipType": "Self-owned",
+    "num_farmLands": {
+      "$numberInt": "6"
+    },
+    "user": {
+      "$oid": "5f251011b93e9e6b41313ca1"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1597486702370"
+      }
+    },
+    "name": "AmaSekyiwaa",
+    "slug": "ama-sekyiwaa",
+    "farmerId": "FPP-UGSC3-20",
+    "__v": {
+      "$numberInt": "0"
+    },
+    "marital_status": "Married",
+    "farm_location": "7.777713,-1.606866"
+  },
+  {
+    "education": "None",
+    "photo": "img_pp_6.jpg",
+    "fingerprint": "img_yaagyemea.jpg",
+    "idCard": "img_gy.jpg",
+    "spouse": [{
+      "firstName": "None",
+      "lastName": "None",
+      "dob": "",
+      "phone": "none",
+      "national_id": "",
+      "id_number": ""
+    }],
+    "children": [{
+      "name": "Kwaku Ameyaw",
+      "dob": ""
+    }, {
+      "name": "Abena Esaa"
+    }, {
+      "name": "Yaa Adubia"
+    }, {
+      "name": "Kwaku Nyarko"
+    }, {
+      "name": "Ekua Naa"
+    }, {
+      "name": "Kwame Baffour"
+    }],
+    "harvestYield": [{
+      "crop_name": "none",
+      "acres": 2,
+      "years": [{
+        "year": "",
+        "major_season_harvest": "",
+        "minor_season_harvest": "",
+        "yearly_harvest": "",
+        "major_season_income": 0,
+        "minor_season_income": 0,
+        "yearly_income": 0
+      }]
+    }],
+    "bank": [],
+    "momo": [],
+    "title": "Madam",
+    "firstName": "Yaa",
+    "lastName": "Gyamea",
+    "aka": "Yaa Gyamea",
+    "dob": "1597487610937",
+    "phone": "0243682488",
+    "email": "yg@gmail.com",
+    "hometown": "Bonte",
+    "nationality": "Ghanaian",
+    "townOfResidence": "Bonte",
+    "res_address": "BT-0083",
+    "fbo_position": "Member",
+    "fboMember_name": "Member",
+    "national_id": "Ghana Card",
+    "id_number": "GHA-715447590-8",
+    "num_children": 6,
+    "years_farming": 1,
+    "farmLandOwnershipType": "none",
+    "num_farmLands": 0,
+    "marital_status": "Divorced"
+  }
+]
+
+
