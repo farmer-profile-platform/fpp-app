@@ -97,7 +97,7 @@ app.use(cookieParser());
 
 // Set static folder
 // app.use(express.static(path.join(__dirname, 'public')));
-app.use(express.static(path.join(__dirname, '../frontend/dist')));
+app.use(express.static(path.join(__dirname, 'public/dist')));
 
 // Mount Routers
 app.use('/api/farmers', farmers);
@@ -111,9 +111,9 @@ app.use('/api/issues', issues);
 
 app.use(errorResponse);
 
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, '../frontend/build/index.html'));
-});
+// app.get('/', (req, res) => {
+//   res.sendFile(path.join(__dirname, '../frontend/build/index.html'));
+// });
 
 const PORT = process.env.PORT || 8000;
 
